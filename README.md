@@ -1,12 +1,8 @@
-# \<PROJECT NAME - fill this in\>
+# Student Assignment Deadline Tracker
 
-> One sentence: what does your tool do, and for whom?
-> Example: "Reads a server check list and reports which items need attention."
+A Python-based tool that helps students organize assignments, track deadlines, and identify overdue tasks.
 
-**Team \<letter\>** · \<GitHub usernames\> · Track: **A only** / **A + B** (keep one)
-
-This repository was made for your team from the course template. Everything
-marked `TODO` or `<...>` is yours to replace.
+**Team E** · AminAl69, Islam-sajjadul, hasan6319, torjoymorshad · Track: **A only**
 
 ---
 

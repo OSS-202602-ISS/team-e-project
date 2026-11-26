@@ -8,7 +8,7 @@ Add one row per meaningful use. Keep it honest and short.
 
 | Date | Who | Tool | What you asked for | What you did with the answer |
 |---|---|---|---|---|
-| 2026-MM-DD | \<name\> | \<ChatGPT / Gemini / Copilot / course assistant\> | "Explain this pandas KeyError" | Understood the cause, renamed the column myself |
+| 2026-11-26 | Amin Al | ChatGPT | "Help me write the README project title and description" | Reviewed and edited the suggested wording for our project |
 | | | | | |
 
 ## The rule you are graded on
