@@ -1,15 +1,18 @@
 # AI Usage Log
 
 Required if your team used AI - and in this course you are expected to.
-Using AI is allowed and encouraged; **hiding it, or submitting output you cannot
-explain, is not**. Submitting AI output as-is results in a deduction.
+Using AI is allowed and encouraged; hiding it, or submitting output you cannot
+explain, is not. Submitting AI output as-is results in a deduction.
 
 Add one row per meaningful use. Keep it honest and short.
 
 | Date | Who | Tool | What you asked for | What you did with the answer |
 |---|---|---|---|---|
-| 2026-MM-DD | \<name\> | \<ChatGPT / Gemini / Copilot / course assistant\> | "Explain this pandas KeyError" | Understood the cause, renamed the column myself |
-| | | | | |
+| 2026-11-26 | torjoymorshad | ChatGPT | Project plan formatting | Used the suggested format for our accepted team plan |
+| 2026-11-26 | torjoymorshad | ChatGPT | Git commands | Followed the suggested commands to create branches, commit and push |
+| 2026-11-26 | torjoymorshad | ChatGPT | Pull request and task issue descriptions | Used the suggested descriptions |
+| 2026-11-26 | torjoymorshad | ChatGPT | Sample CSV data | Copied five AI-generated fictional assignment records |
+| 2026-11-26 | torjoymorshad | ChatGPT | AI usage documentation | Used the suggested entries to document AI assistance |
 
 ## The rule you are graded on
 
@@ -23,7 +26,6 @@ If the answer to any of these is "the AI wrote it", that code is not finished ye
 
 ## Good prompts to reuse
 
-- "Explain this error message line by line: \<paste error\>"
-- "I want to \<goal\>. Here is my code: \<paste\>. What is the smallest change
-  that gets me there, and what does that change do?"
+- "Explain this error message line by line: <paste error>"
+- "I want to <goal>. Here is my code: <paste>. What is the smallest change that gets me there, and what does that change do?"
 - "Review this function for edge cases I have not handled - do not rewrite it."
