@@ -20,7 +20,7 @@ python -m pytest
 | 3 | Missing input file | `--input data/nope.csv` | Clear message naming the file | | ☐ |
 | 4 | Threshold keeps nothing | `min_score: 999` in config | Empty table, count 0, no crash | | ☐ |
 | 5 | Excel output | `--excel output/results.xlsx` | File exists and opens in Excel | | ☐ |
-| 6 | \<your own case\> | | | | ☐ |
+| | 6 | Overdue assignments | Incomplete assignments with past deadlines | Only incomplete assignments with past deadlines are selected | | ☐ |
 
 ## Automated tests
 
