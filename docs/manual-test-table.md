@@ -1,8 +1,7 @@
+
 # Execution Results / Manual Test Table
 
-Required deliverable. It answers one question for the grader: **does it run, and
-how do you know?** Fill in one row per case you actually ran, including the ones
-that failed before you fixed them.
+Required deliverable. It answers one question for the grader: **does it run, and how do you know?** Fill in one row per case you actually ran, including the ones that failed before you fixed them.
 
 ## How to run
 
@@ -20,7 +19,7 @@ python -m pytest
 | 3 | Missing input file | `--input data/nope.csv` | Clear message naming the file | | ☐ |
 | 4 | Threshold keeps nothing | `min_score: 999` in config | Empty table, count 0, no crash | | ☐ |
 | 5 | Excel output | `--excel output/results.xlsx` | File exists and opens in Excel | | ☐ |
-| | 6 | Overdue assignments | Incomplete assignments with past deadlines | Only incomplete assignments with past deadlines are selected | | ☐ |
+| 6 | Overdue assignments | `data/assignments.csv` with completed and incomplete assignments, including past deadlines | Only incomplete assignments with past deadlines are selected | | ☐ |
 
 ## Automated tests
 
